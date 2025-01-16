@@ -1,4 +1,4 @@
-# 轩影幻境 (XuanImageEffects)
+# 轩影幻境（XuanImageEffects）
 
 ## 简介
 
@@ -23,14 +23,14 @@ data/
     │   └── labels/
     └── ...                   # 其他效果的处理结果
 effects/
-    └── effects.py             # 图像效果的具体实现
+    └── effects.py            # 图像效果的具体实现
 scripts/
-    └── process_dataset.py     # 数据处理脚本
-visualizations/                # 存储可视化效果对比结果
-requirements.txt               # 依赖文件
-LICENSE                        # 许可证
-README.md                      # 项目说明
-setup.py                       # 安装脚本
+    └── process_dataset.py    # 数据处理脚本
+visualizations/               # 存储可视化效果对比结果
+requirements.txt              # 依赖文件
+LICENSE                       # 许可证
+README.md                     # 项目说明
+setup.py                      # 安装脚本
 ```
 
 ## 系统要求
