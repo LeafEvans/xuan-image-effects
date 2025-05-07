@@ -1,4 +1,4 @@
-# 轩影幻境（XuanImageEffects）
+# 轩影幻境（Xuan Image Effects）
 
 ## 简介
 
